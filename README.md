@@ -1,3 +1,5 @@
+![cover](Cover-itch.io-and-GitHub.png)
+
 # StarFox du Bled
 
 You want the last remake of StarFox on the Nintendo Switch 2 but you're 
