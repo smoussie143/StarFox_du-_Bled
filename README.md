@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Cover-itch.io-and-GitHub.png">
-</p>
+
 
 # StarFox du Bled
 
