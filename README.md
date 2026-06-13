@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Cover-itch.io.png">
-</p>
-
 # StarFox du Bled
 
 You want the last remake of StarFox on the Nintendo Switch 2 but you're 
